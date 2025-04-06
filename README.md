@@ -14,4 +14,5 @@ Creating this dashboard has been an amazing learning experience, reinforcing the
 What are your go-to tools for creating dashboards? Let’s discuss in the comments! 💬👇
 
 #Excel #PowerQuery #DataAnalytics #DashboardDesign #HealthcareAnalytics #LearningByDoing
+
 ![Dashboard_Hospital_Emergency_Room](https://github.com/user-attachments/assets/53096646-f5bf-4b4e-9443-414d161e1487)
